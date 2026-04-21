@@ -1,5 +1,6 @@
 ## Hi there 👋
-  <img width="340" height="190" alt="lainps1" src="https://github.com/user-attachments/assets/30b2ff35-82fa-4ae0-acd6-b31427650873" />
+
+<img width="507" height="357" alt="laingifgit" src="https://github.com/user-attachments/assets/c81b0d06-bf3d-4988-be28-6b2ff2f6fd99" />
 
 
   
