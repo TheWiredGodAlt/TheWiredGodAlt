@@ -1,5 +1,5 @@
 ## Hi there 👋
-  <img width="240" height="100" alt="lainps1" src="https://github.com/user-attachments/assets/30b2ff35-82fa-4ae0-acd6-b31427650873" />
+  <img width="340" height="190" alt="lainps1" src="https://github.com/user-attachments/assets/30b2ff35-82fa-4ae0-acd6-b31427650873" />
 
 
   
