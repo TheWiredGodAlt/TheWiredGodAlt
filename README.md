@@ -1,7 +1,9 @@
 ## Hi there 👋
+<img width="320" height="240" alt="lainps1" src="https://github.com/user-attachments/assets/30b2ff35-82fa-4ae0-acd6-b31427650873" />
+
 
 <!--
-**TheWiredGodAlt/TheWiredGodAlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
