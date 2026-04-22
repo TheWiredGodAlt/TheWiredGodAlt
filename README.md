@@ -1,5 +1,7 @@
 ### Welcome to TheWiredGod's github page  
-<div align="center><img width="112" height="88" alt="tuxcoding" src="https://github.com/user-attachments/assets/e6717cf2-3568-4f45-9635-b18e7d7d8fe4" /></div>
+<div align="center>
+ <img width="112" height="88" alt="tuxcoding" src="https://github.com/user-attachments/assets/e6717cf2-3568-4f45-9635-b18e7d7d8fe4" />
+</div>
 
 👋 Hi! I'm TheWiredGod, an autistic programmer who builds cool stuff using linux! 
 
