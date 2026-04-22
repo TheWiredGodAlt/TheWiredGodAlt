@@ -4,8 +4,8 @@
 
 </div>
 
-<div align="right">
-  <img width="212" height="108" alt="tuxcoding" src="https://github.com/user-attachments/assets/e6717cf2-3568-4f45-9635-b18e7d7d8fe4" />
+<div align="left">
+  <img width="152" height="98" alt="tuxcoding" src="https://github.com/user-attachments/assets/e6717cf2-3568-4f45-9635-b18e7d7d8fe4" />
 </div>
 
 <div align="center">
