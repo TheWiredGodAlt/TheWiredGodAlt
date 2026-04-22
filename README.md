@@ -1,4 +1,8 @@
+<div align="center">
+  
 ### Welcome to TheWiredGod's github page  
+
+</div>
 
 <div align="center">
   <img width="112" height="88" alt="tuxcoding" src="https://github.com/user-attachments/assets/e6717cf2-3568-4f45-9635-b18e7d7d8fe4" />
@@ -11,7 +15,7 @@
   
   <br>
   
-  <sup><code>arch btw</code></sup>  <!-- Tiny terminal-style flex 😎 -->
+  <sup><code>I use arch btw O_O</code></sup>  <!-- Tiny terminal-style flex 😎 -->
 </div>
 
 > ▮ I code in lots of different domains. If I find it interesting, I'll do it. ▮
