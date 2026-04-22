@@ -13,9 +13,8 @@
 <div align="center">
   <img width="507" height="357" alt="laingifgit" src="https://github.com/user-attachments/assets/c81b0d06-bf3d-4988-be28-6b2ff2f6fd99" />
   
-  <br>
-  
-  <sup><code>I use arch btw O_O</code></sup>
+<en>
+  <sup><code> I use arch btw O_O </code></sup>
 </div>
 
 <div align="center">
