@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  > ▮ I code in lots of different domains. If I find it interesting, I'll do it. ▮
+   ▮ I code in lots of different domains. If I find it interesting, I'll do it. ▮
 
 </div>
 
@@ -33,6 +33,6 @@
 
  
 <div align="left">
-  <img width="152" height="98" alt="tuxcoding" src="https://github.com/user-attachments/assets/e6717cf2-3568-4f45-9635-b18e7d7d8fe4" />
+<img width="435" height="284" alt="Madottsuki" src="https://github.com/user-attachments/assets/431fdd19-a9ad-4c5e-ba2b-ab52be442f50" />
 </div>
 
