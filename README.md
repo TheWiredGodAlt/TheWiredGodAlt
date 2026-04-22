@@ -33,11 +33,6 @@
 
  
 <div align="center">
-  <div align="right">
-    
-  just a simple test about the things that i wanna do
-    
-  </div>
 <img width="435" height="284" alt="Madottsuki" src="https://github.com/user-attachments/assets/431fdd19-a9ad-4c5e-ba2b-ab52be442f50" />
 </div>
 
