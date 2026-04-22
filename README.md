@@ -13,6 +13,6 @@
 
 ____  
 <div aling="center">  
-<img width="435" height="284" alt="Madottsuki" src="https://github.com/user-attachments/assets/07c6c9d7-a5e6-4377-8057-51026b0d7e4b" />
+      <img width="435" height="284" alt="Madottsuki" src="https://github.com/user-attachments/assets/07c6c9d7-a5e6-4377-8057-51026b0d7e4b" />
 </div>
 
