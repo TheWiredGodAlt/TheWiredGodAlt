@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  👋 Hi! I'm TheWiredGod, an autistic programmer who builds cool stuff using linux! 
+  💻 Hi there! I'm TheWiredGod, an autistic programmer who builds cool stuff using linux! 🐧
 
 </div>
 
@@ -22,7 +22,15 @@
   <sup><code>I use arch btw O_O</code></sup>  <!-- Tiny terminal-style flex 😎 -->
 </div>
 
-> ▮ I code in lots of different domains. If I find it interesting, I'll do it. ▮
+<div align="center">
 
- ■ 𝐈𝐧 𝐭𝐡𝐞 𝐩𝐫𝐨𝐯𝐢𝐧𝐜𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐦𝐢𝐧𝐝 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐬 𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞 ■
+  > ▮ I code in lots of different domains. If I find it interesting, I'll do it. ▮
 
+</div>
+
+ 
+ <div align="center">
+ 
+   ■ 𝐈𝐧 𝐭𝐡𝐞 𝐩𝐫𝐨𝐯𝐢𝐧𝐜𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐦𝐢𝐧𝐝 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐬 𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞 ■
+ 
+ </div>
