@@ -32,7 +32,7 @@
  </div>
 
  
-<div align="left">
+<div align="center">
   <div align="right">
     
   just a simple test about the things that i wanna do
