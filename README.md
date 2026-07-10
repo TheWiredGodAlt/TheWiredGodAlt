@@ -32,7 +32,7 @@
 
  
 <div align="center">
-<img width="150" height="150" alt="madwitch" src="https://github.com/user-attachments/assets/a3a4c368-f5e4-4a26-a4fb-8b15caa9d147" /> 
+<img src="https://github.com/user-attachments/assets/a3a4c368-f5e4-4a26-a4fb-8b15caa9d147" /> 
 </div>
 <div align="center">
 ⚠️This page is still a work in progress⚠️
