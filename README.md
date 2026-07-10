@@ -1,5 +1,3 @@
-
-<img width="150" height="150" alt="madwitch" src="https://github.com/user-attachments/assets/5bd981e7-d54f-46d4-bb2d-1467a2d1dd2e" />
 <div align="center">
   
 # ***Welcome to TheWiredGod's github page***  
