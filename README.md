@@ -1,3 +1,5 @@
+
+<img width="150" height="150" alt="madwitch" src="https://github.com/user-attachments/assets/5bd981e7-d54f-46d4-bb2d-1467a2d1dd2e" />
 <div align="center">
   
 # ***Welcome to TheWiredGod's github page***  
@@ -32,7 +34,7 @@
 
  
 <div align="center">
-<img width="435" height="284" alt="Madottsuki" src="https://github.com/user-attachments/assets/431fdd19-a9ad-4c5e-ba2b-ab52be442f50" />
+<img width="150" height="150" alt="madwitch" src="https://github.com/user-attachments/assets/a3a4c368-f5e4-4a26-a4fb-8b15caa9d147" /> 
 </div>
 <div align="center">
 ⚠️This page is still a work in progress⚠️
